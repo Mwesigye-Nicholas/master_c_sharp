@@ -1,37 +1,13 @@
-﻿Random random = new Random();
-int daysUntilExpiration = random.Next(12);
-int discountPercentage = 0;
+﻿//string[] fraudulentOrderIDs = new string[3];
+string[] fraudulentOrderIDs = ["A123", "B456", "C789"];
+/*fraudulentOrderIDs[0] = "A123";
+fraudulentOrderIDs[1] = "b456";
+fraudulentOrderIDs[2] = "C789";
+*/
+Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
+Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
+Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
 
-if (daysUntilExpiration <= 10)
-{
-    Console.WriteLine("Your subscription will expire soon. Renew!");
-}
-else if (daysUntilExpiration <= 5)
-{
-    discountPercentage = 10;
-    Console.WriteLine($"Your subscription expires in {daysUntilExpiration}");
-    Console.WriteLine($"Renew now and save {discountPercentage}%");
-}
-else if (daysUntilExpiration == 1)
-{
-    discountPercentage = 20;
-    Console.WriteLine("Your subscription expires within a day");
-    Console.WriteLine($"Renew to save {discountPercentage}%");
-}
-else if (daysUntilExpiration > 10)
-{
-    Console.WriteLine("");
-}
-else
-{
-    Console.WriteLine("Your subscription has expired!");
-}
-
-if (daysUntilExpiration <= 5)
-{
-    Console.WriteLine("Discount 10%, be offered");
-}
-else if (daysUntilExpiration == 1)
-{
-    Console.WriteLine("Discount of 20%, to be offered");
-}
+fraudulentOrderIDs[0] = "FOOO";
+Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
+Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process.");
