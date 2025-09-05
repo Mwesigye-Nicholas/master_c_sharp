@@ -1,0 +1,14 @@
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\bin\Debug\net9.0\learnSharp.exe
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\bin\Debug\net9.0\learnSharp.deps.json
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\bin\Debug\net9.0\learnSharp.runtimeconfig.json
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\bin\Debug\net9.0\learnSharp.dll
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\bin\Debug\net9.0\learnSharp.pdb
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.AssemblyInfoInputs.cache
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.AssemblyInfo.cs
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.csproj.CoreCompileInputs.cache
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.dll
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\refint\learnSharp.dll
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.pdb
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\learnSharp.genruntimeconfig.cache
+C:\Users\IMAAN\Desktop\CSharpProjects\learnSharp\obj\Debug\net9.0\ref\learnSharp.dll
