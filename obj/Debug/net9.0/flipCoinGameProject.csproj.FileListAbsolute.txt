@@ -1,0 +1,14 @@
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\bin\Debug\net9.0\flipCoinGameProject.exe
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\bin\Debug\net9.0\flipCoinGameProject.deps.json
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\bin\Debug\net9.0\flipCoinGameProject.runtimeconfig.json
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\bin\Debug\net9.0\flipCoinGameProject.dll
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\bin\Debug\net9.0\flipCoinGameProject.pdb
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.AssemblyInfoInputs.cache
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.AssemblyInfo.cs
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.csproj.CoreCompileInputs.cache
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.dll
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\refint\flipCoinGameProject.dll
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.pdb
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\flipCoinGameProject.genruntimeconfig.cache
+C:\Users\IMAAN\Desktop\myProject\flipCoinGameProject\obj\Debug\net9.0\ref\flipCoinGameProject.dll
